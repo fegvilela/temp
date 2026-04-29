@@ -126,3 +126,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# WhatsApp exports and extracted media temp dirs
+*.zip
+wa_export_*/
